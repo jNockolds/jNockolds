@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @jossnock
-- 👀 I’m interested in:
-- 🌱 I’m currently learning: Mainly Python, and beginning to learn HTML and C++
-- 💞️ I’m looking to collaborate on:
-- 📫 How to reach me: 
+
