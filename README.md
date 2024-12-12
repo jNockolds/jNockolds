@@ -1,1 +1,1 @@
-I'm currently developing [PoolGame](https://github.com/jNockolds/PoolGame).
+I'm currently working on [PoolGame](https://github.com/jNockolds/PoolGame).
